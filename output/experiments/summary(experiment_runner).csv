@@ -1,0 +1,10 @@
+experiment,decision_mode,seed,ticks,final_prey,final_predators,final_resources,births_total,deaths_total,predation_total,extinction_events,metrics_csv
+baseline,utility,101,3000,89,0,17,355,319,76,1,output/experiments/baseline_utility.csv
+baseline,fsm,101,3000,106,0,3,312,259,20,1,output/experiments/baseline_fsm.csv
+baseline,neural,101,3000,86,0,8,281,248,3,1,output/experiments/baseline_neural.csv
+resource_scarcity,utility,202,3000,29,0,27,105,129,15,1,output/experiments/resource_scarcity_utility.csv
+resource_scarcity,fsm,202,3000,25,0,18,90,118,13,1,output/experiments/resource_scarcity_fsm.csv
+resource_scarcity,neural,202,3000,0,0,90,25,78,23,2,output/experiments/resource_scarcity_neural.csv
+predator_pressure,utility,303,3000,123,0,5,380,321,64,1,output/experiments/predator_pressure_utility.csv
+predator_pressure,fsm,303,3000,100,0,5,296,260,54,1,output/experiments/predator_pressure_fsm.csv
+predator_pressure,neural,303,3000,97,0,13,376,343,43,1,output/experiments/predator_pressure_neural.csv
