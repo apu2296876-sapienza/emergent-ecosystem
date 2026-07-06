@@ -1,0 +1,4 @@
+# Python 3.11+ required (uses match-free StrEnum, slots dataclasses, PEP 604 unions)
+pygame>=2.5.0
+matplotlib>=3.8.0
+pytest>=8.0.0
