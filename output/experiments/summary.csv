@@ -1,0 +1,16 @@
+experiment,decision_mode,seed,ticks,final_prey,final_predators,final_resources,births_total,deaths_total,predation_total,extinction_events,metrics_csv
+predator_pressure,utility,303,3000,123,0,5,380,321,64,1,output/experiments/predator_pressure_utility_run0.csv
+predator_pressure,utility,1303,3000,94,3,17,341,308,157,0,output/experiments/predator_pressure_utility_run1.csv
+predator_pressure,utility,2303,3000,149,1,16,365,279,86,0,output/experiments/predator_pressure_utility_run2.csv
+predator_pressure,utility,3303,3000,131,0,8,433,366,83,1,output/experiments/predator_pressure_utility_run3.csv
+predator_pressure,utility,4303,3000,145,1,21,417,335,124,0,output/experiments/predator_pressure_utility_run4.csv
+predator_pressure,fsm,303,3000,100,0,5,296,260,54,1,output/experiments/predator_pressure_fsm_run0.csv
+predator_pressure,fsm,1303,3000,86,1,5,298,275,87,0,output/experiments/predator_pressure_fsm_run1.csv
+predator_pressure,fsm,2303,3000,114,0,6,306,256,53,1,output/experiments/predator_pressure_fsm_run2.csv
+predator_pressure,fsm,3303,3000,127,0,3,324,261,32,1,output/experiments/predator_pressure_fsm_run3.csv
+predator_pressure,fsm,4303,3000,120,0,2,322,266,37,1,output/experiments/predator_pressure_fsm_run4.csv
+predator_pressure,neural,303,3000,97,0,13,376,343,43,1,output/experiments/predator_pressure_neural_run0.csv
+predator_pressure,neural,1303,3000,83,1,6,290,270,41,0,output/experiments/predator_pressure_neural_run1.csv
+predator_pressure,neural,2303,3000,34,9,29,253,274,72,0,output/experiments/predator_pressure_neural_run2.csv
+predator_pressure,neural,3303,3000,0,0,240,15,79,0,2,output/experiments/predator_pressure_neural_run3.csv
+predator_pressure,neural,4303,3000,94,0,21,202,172,18,1,output/experiments/predator_pressure_neural_run4.csv
