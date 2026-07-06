@@ -13,6 +13,7 @@ if TYPE_CHECKING:
     from src.simulation.agent import Agent
 
 CONTROL_ROWS = [
+    "D change mood",
     "P add 10 prey",
     "O add 3 predators",
     "F add 20 resources",
